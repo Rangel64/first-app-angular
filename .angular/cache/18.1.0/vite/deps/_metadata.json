@@ -1,43 +1,49 @@
 {
-  "hash": "61b06151",
-  "configHash": "ea017b11",
+  "hash": "47aa2223",
+  "configHash": "15390972",
   "lockfileHash": "7f6c2448",
-  "browserHash": "ee19c7a1",
+  "browserHash": "ec0c3d80",
   "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "e135a709",
+      "needsInterop": false
+    },
     "@angular/core": {
       "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "b1025571",
+      "fileHash": "edbceb7f",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "c390652a",
+      "fileHash": "1fa7bb0d",
       "needsInterop": false
     },
-    "@angular/common": {
-      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
-      "file": "@angular_common.js",
-      "fileHash": "33236f04",
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "553ce543",
       "needsInterop": false
     },
-    "tslib": {
-      "src": "../../../../../node_modules/tslib/tslib.es6.mjs",
-      "file": "tslib.js",
-      "fileHash": "1514b053",
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "3c02b128",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-X2BVVJKQ": {
-      "file": "chunk-X2BVVJKQ.js"
+    "chunk-6BPDG5PD": {
+      "file": "chunk-6BPDG5PD.js"
     },
-    "chunk-GTRXK3BO": {
-      "file": "chunk-GTRXK3BO.js"
+    "chunk-XWRWPJMW": {
+      "file": "chunk-XWRWPJMW.js"
     },
-    "chunk-YNZI7GL3": {
-      "file": "chunk-YNZI7GL3.js"
+    "chunk-BCSCV6X3": {
+      "file": "chunk-BCSCV6X3.js"
     }
   }
 }
